@@ -1,4 +1,4 @@
-# tantoony-asgpub-sorun-anlat-m
+# tantoony-asgpub-sorun-anlatım
 
 1 - ubuntu vds olcak
 2 - util.js deki sorunlar vs vs 
